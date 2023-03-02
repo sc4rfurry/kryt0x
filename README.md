@@ -44,7 +44,7 @@
 
 - sudo apt-get update && sudo apt-get golang
 - git clone https://github.com/sc4rfurry/kryt0x.git
-- cd krty0x
+- cd kryt0x
 - go get .
 - go build main.go
     - or use the `builder.sh` script to build the tool.
